@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>me.dio</groupId>
-	<artifactId>projeto-rest-api-spring-santander</artifactId>
+	<artifactId>dio-projeto-rest-api-spring-santander</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>projeto-rest-api-spring-santander</name>
+	<name>dio-projeto-rest-api-spring-santander</name>
 	<description>Java RESTful API</description>
 	<properties>
 		<java.version>17</java.version>
